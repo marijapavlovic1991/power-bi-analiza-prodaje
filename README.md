@@ -15,4 +15,4 @@ Cilj projekta
 Cilj projekta bio je da kroz praktičnu vježbu primijenimo znanje iz oblasti rada sa podacima, izvršimo različite proračune i rezultate predstavimo pomoću dashboarda.
 
 Kroz ovaj projekat vježbali smo obradu podataka, njihovu analizu i vizuelni prikaz rezultata.
-![Prikaz Izveštaja](dashboard.png)
+
