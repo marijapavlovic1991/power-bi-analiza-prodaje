@@ -16,4 +16,4 @@ Cilj projekta bio je da kroz praktičnu vježbu primijenimo znanje iz oblasti ra
 
 Kroz ovaj projekat vježbali smo obradu podataka, njihovu analizu i vizuelni prikaz rezultata.
 
-![Prikaz Izvjestaja](images/dashboard1.png)
+![Prikaz Izvjestaja](images/dashboard.png)
