@@ -18,4 +18,4 @@ Kroz ovaj projekat vježbali smo obradu podataka, njihovu analizu i vizuelni pri
 
 ![Prikaz Izvjestaja](images/dashboard.png)
 
-![Prikaz Izvjestaja1]()
+![Prikaz Izvjestaja1](dashboard4.png)
